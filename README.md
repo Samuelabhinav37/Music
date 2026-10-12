@@ -1,2 +1,2 @@
-# Music-
+# Music
 A Music Application 
